@@ -32,3 +32,10 @@ pip install gTTS
 
 os is a standard Python module, so you don't have to install it 
 
+## Example Images of the GUI Application 
+
+### Vehicle Registration Plate 
+![Image 1](exampleimage2.jpg)
+
+### Reading Texts from Images
+![Image 2](exampleimage1.jpg)
